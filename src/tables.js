@@ -3,7 +3,7 @@ import Tableme from "./table";
 import TextField from "@mui/material/TextField";
 class Tables extends React.Component {
   state = {
-    upto: 10,
+    upto: 4,
   };
 
   setUpto = () => {
