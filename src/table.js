@@ -29,7 +29,7 @@ class Tableme extends React.Component {
           value={this.state.num}
           onChange={this.setNum}
           type="number"
-          label="Filled"
+          label="number"
           variant="filled"
         />
         {/* {this.arr().map((n) => (
