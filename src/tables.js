@@ -32,7 +32,7 @@ class Tables extends React.Component {
           label="upto"
           variant="filled"
         />
-
+        <br></br>
         <Tableme upto={this.state.upto} id="1"></Tableme>
       </>
     );
